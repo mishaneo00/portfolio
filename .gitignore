@@ -1,0 +1,10 @@
+/music/server/node_modules/
+/music/server/static/
+/music/server/package-lock.json
+/music/server/.env
+
+/store/server/node_modules/
+/store/server/static/
+/store/server/package-lock.json
+/store/server/.env
+
